@@ -1,0 +1,66 @@
+2021-01-10T13:53:43.0485689 FEED MONEY 1010
+2021-01-10T13:53:52.8840123 Product Purchased C1 - Cola - $1.25 - Drink - amount remaining: 4
+2021-01-10T13:55:18.0986902 FEED MONEY $10, $10
+2021-01-10T13:55:22.3385536 FEED MONEY $5, $15
+2021-01-10T13:55:28.2519825 Product Purchased D3 - Chiclets - $0.75 - Gum - amount remaining: 4
+2021-01-10T13:57:42.9597586 FEED MONEY $2, $2
+2021-01-10T13:57:47.1215613 FEED MONEY $1, $3
+2021-01-10T13:57:54.5636732 Product Purchased D4 - Triplemint - $0.75 - Gum - amount remaining: 4, $2.25
+2021-01-10T14:03:13.4832709 FEED MONEY $1, $1
+2021-01-10T14:03:16.5778459 FEED MONEY $2, $3
+2021-01-10T14:03:20.0428 FEED MONEY $5, $8
+2021-01-10T14:03:24.7145097 FEED MONEY $10, $18
+2021-01-10T14:03:30.267629 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $14.95
+2021-01-10T14:08:42.9737896 FEED MONEY $10, $10
+2021-01-10T14:08:47.5948922 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $6.95
+2021-01-10T14:16:30.8198835 FEED MONEY $10, $10
+2021-01-10T14:16:32.1877275 FEED MONEY $10, $20
+2021-01-10T14:16:33.624969 FEED MONEY $10, $30
+2021-01-10T14:30:42.6766941 FEED MONEY $0, $0
+2021-01-10T14:32:51.8595891 FEED MONEY $0, $0
+2021-01-10T14:34:20.6430952 FEED MONEY $0, $0
+2021-01-10T14:34:43.8115877 FEED MONEY $5, $5
+2021-01-10T14:34:46.8282495 FEED MONEY $5, $10
+2021-01-10T14:40:05.4357096 FEED MONEY $10, $10
+2021-01-10T14:57:14.6193566 FEED MONEY $0, $0
+2021-01-10T15:01:55.4394388 FEED MONEY $10, $10
+2021-01-10T15:01:58.2015199 FEED MONEY $10, $20
+2021-01-10T15:03:12.4235933 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $-3.05
+2021-01-10T15:03:27.2176921 Product Purchased D1 - U-Chews - $0.85 - Gum - amount remaining: 4, $-3.90
+2021-01-10T15:03:30.7857139 FEED MONEY $10, $6.10
+2021-01-10T15:03:37.7616735 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 3, $3.05
+2021-01-10T15:04:50.0230167 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $-3.05
+2021-01-10T15:05:43.1176123 FEED MONEY $10, $10
+2021-01-10T15:05:46.0176612 FEED MONEY $10, $20
+2021-01-10T15:05:51.4651286 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $16.95
+2021-01-10T15:08:34.4224071 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $-3.05
+2021-01-10T15:12:37.2666081 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $-3.05
+2021-01-10T15:14:54.3565716 Product Purchased A3 - Grain Waves - $2.75 - Chip - amount remaining: 4, $-2.75
+2021-01-10T15:16:22.174158 Product Purchased A3 - Grain Waves - $2.75 - Chip - amount remaining: 4, $-2.75
+2021-01-10T15:38:08.5398245 Product Purchased A4 - Cloud Popcorn - $3.65 - Chip - amount remaining: 4, $-3.65
+2021-01-10T15:43:24.9844767 Product Purchased A3 - Grain Waves - $2.75 - Chip - amount remaining: 4, $-2.75
+2021-01-10T15:44:35.1592798 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $-3.05
+2021-01-10T15:44:40.8438774 FEED MONEY $10, $6.95
+2021-01-10T15:46:21.3208091 FEED MONEY $1, $1
+2021-01-10T15:46:35.2897118 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $-2.05
+2021-01-10T15:54:20.4522139 FEED MONEY $1, $1
+2021-01-10T15:54:31.4092898 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $-2.05
+2021-01-10T15:54:34.8096405 FEED MONEY $10, $7.95
+2021-01-10T15:58:40.5685259 FEED MONEY $10, $10
+2021-01-10T15:58:45.5386367 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $6.95
+2021-01-10T15:59:49.6752369 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $-3.05
+2021-01-10T16:00:02.0915077 FEED MONEY $10, $10
+2021-01-10T16:00:06.0014166 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 4, $6.95
+2021-01-10T16:00:48.2675086 FEED MONEY $10, $10
+2021-01-10T16:00:54.0088685 Product Purchased D1 - U-Chews - $0.85 - Gum - amount remaining: 0, $9.15
+2021-01-10T16:01:01.5082793 Product Purchased D4 - Triplemint - $0.75 - Gum - amount remaining: 0, $8.40
+2021-01-10T16:01:15.0045976 Product Purchased D4 - Triplemint - $0.75 - Gum - amount remaining: 0, $8.40
+2021-01-10T16:01:40.3894877 FEED MONEY $10, $10
+2021-01-10T16:01:53.6174375 Product Purchased C4 - Heavy - $1.50 - Drink - amount remaining: 0, $8.50
+2021-01-10T16:02:00.0257355 Product Purchased C4 - Heavy - $1.50 - Drink - amount remaining: 0, $8.50
+2021-01-10T16:03:04.5004866 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 0, $-3.05
+2021-01-10T16:04:46.6988465 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 0, $-3.05
+2021-01-10T16:08:31.6819554 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 0, $-3.05
+2021-01-10T16:08:39.9854422 FEED MONEY $10, $6.95
+2021-01-10T16:09:37.8493955 Product Purchased A1 - Potato Crisps - $3.05 - Chip - amount remaining: 0, $-3.05
+2021-01-10T16:09:41.9051523 FEED MONEY $10, $6.95
